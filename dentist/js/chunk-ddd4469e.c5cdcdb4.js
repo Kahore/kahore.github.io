@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-ddd4469e"],{"1a40":function(e,t,n){"use strict";var s=n("b4ee"),a=n.n(s);a.a},8545:function(e,t,n){"use strict";n.r(t);var s=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"notify alert alert-success",attrs:{role:"alert"}},[e._v("\n  Your progress was saved now!\n")])},a=[],r={name:"AlertSuccess"},c=r,u=(n("1a40"),n("2877")),o=Object(u["a"])(c,s,a,!1,null,"bfd52282",null);t["default"]=o.exports},b4ee:function(e,t,n){}}]);
-//# sourceMappingURL=chunk-ddd4469e.c5cdcdb4.js.map
