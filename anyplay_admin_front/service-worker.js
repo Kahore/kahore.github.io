@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/anyplay_admin_front/precache-manifest.fc563224935d54b2b2e530da86fefb67.js"
+  "/anyplay_admin_front/precache-manifest.d83d3d37aad3ab3d633f41467069b77f.js"
 );
 
 self.addEventListener('message', (event) => {

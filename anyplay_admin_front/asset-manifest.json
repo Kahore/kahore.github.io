@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/anyplay_admin_front/static/css/main.151ce7f5.chunk.css",
-    "main.js": "/anyplay_admin_front/static/js/main.0106e049.chunk.js",
-    "main.js.map": "/anyplay_admin_front/static/js/main.0106e049.chunk.js.map",
+    "main.js": "/anyplay_admin_front/static/js/main.3c688c6f.chunk.js",
+    "main.js.map": "/anyplay_admin_front/static/js/main.3c688c6f.chunk.js.map",
     "runtime-main.js": "/anyplay_admin_front/static/js/runtime-main.689dc50c.js",
     "runtime-main.js.map": "/anyplay_admin_front/static/js/runtime-main.689dc50c.js.map",
     "static/js/2.74a5bc43.chunk.js": "/anyplay_admin_front/static/js/2.74a5bc43.chunk.js",
     "static/js/2.74a5bc43.chunk.js.map": "/anyplay_admin_front/static/js/2.74a5bc43.chunk.js.map",
     "index.html": "/anyplay_admin_front/index.html",
-    "precache-manifest.fc563224935d54b2b2e530da86fefb67.js": "/anyplay_admin_front/precache-manifest.fc563224935d54b2b2e530da86fefb67.js",
+    "precache-manifest.d83d3d37aad3ab3d633f41467069b77f.js": "/anyplay_admin_front/precache-manifest.d83d3d37aad3ab3d633f41467069b77f.js",
     "service-worker.js": "/anyplay_admin_front/service-worker.js",
     "static/css/main.151ce7f5.chunk.css.map": "/anyplay_admin_front/static/css/main.151ce7f5.chunk.css.map",
     "static/js/2.74a5bc43.chunk.js.LICENSE.txt": "/anyplay_admin_front/static/js/2.74a5bc43.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.689dc50c.js",
     "static/js/2.74a5bc43.chunk.js",
     "static/css/main.151ce7f5.chunk.css",
-    "static/js/main.0106e049.chunk.js"
+    "static/js/main.3c688c6f.chunk.js"
   ]
 }
